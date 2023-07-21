@@ -12,7 +12,7 @@ import "@percy/cypress";
 import "./auth-provider-commands/auth0";
 import "./auth-provider-commands/okta";
 
-// custom command to make taking snapshots with full name
+// custom command to make taking snapshots with full namee
 // formed from the test title + suffix easier
 // cy.visualSnapshot() // default full test title
 // cy.visualSnapshot('clicked') // full test title + ' - clicked'
